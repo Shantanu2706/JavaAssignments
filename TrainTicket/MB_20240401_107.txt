@@ -1,0 +1,11 @@
+PNR: MB_20240401_107
+Train No: 1004
+Train Name: Udyan Express
+From:Mumbai
+To: Bangalore
+Travel Date: 1/4/2024
+
+Passengers
+Name	Age	Gender	Fare
+Vinay	44	M	1500
+Total Price: 1500.0

@@ -1,0 +1,11 @@
+PNR: BC_20230211_105
+Train No: 1005
+Train Name: Brindavan Express
+From:Bangalore
+To: Chennai
+Travel Date: 11/2/2023
+
+Passengers
+Name	Age	Gender	Fare
+Vinay	22	M	1000
+Total Price: 1000.0

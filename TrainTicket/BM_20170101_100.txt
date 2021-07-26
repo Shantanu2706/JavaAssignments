@@ -1,0 +1,12 @@
+PNR: BM_20170101_100
+Train No: 1003
+Train Name: Udyan Express
+From:Bangalore
+To: Mumbai
+Travel Date: 1/1/2017
+
+Passengers
+Name	Age	Gender	Fare
+Ghouse	30	M	1500
+Vinay	32	M	1500
+Total Price: 3000.0

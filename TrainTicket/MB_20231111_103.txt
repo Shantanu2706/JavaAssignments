@@ -1,0 +1,11 @@
+PNR: MB_20231111_103
+Train No: 1004
+Train Name: Udyan Express
+From:Mumbai
+To: Bangalore
+Travel Date: 11/11/2023
+
+Passengers
+Name	Age	Gender	Fare
+Lucky	22	M	1500
+Total Price: 1500.0
