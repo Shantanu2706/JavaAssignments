@@ -1,0 +1,11 @@
+PNR            : MB_20210805_132
+Train No       : 1004
+Train Name     : Udyan Express
+From           : Mumbai
+To             : Bangalore
+Travel Date    : 5/8/2021
+
+Passengers
+Name                Age                 Gender              Fare                
+Rachel              44                  F                   1,125.00
+Total Price: 1125.0

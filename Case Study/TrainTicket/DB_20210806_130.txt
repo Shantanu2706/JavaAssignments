@@ -1,0 +1,11 @@
+PNR            : DB_20210806_130
+Train No       : 1002
+Train Name     : Shatabdi Express
+From           : Delhi
+To             : Bangalore
+Travel Date    : 6/8/2021
+
+Passengers
+Name                Age                 Gender              Fare                
+Monica              34                  F                   0
+                  Total Price: ##,###.##

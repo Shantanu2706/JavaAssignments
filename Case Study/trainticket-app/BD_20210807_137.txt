@@ -1,0 +1,11 @@
+PNR            : BD_20210807_137
+Train No       : 1001
+Train Name     : Shatabdi Express
+From           : Bangalore
+To             : Delhi
+Travel Date    : 07/08/2021
+
+Passengers
+Name                Age                 Gender              Fare                
+Manoj Vaidya        80                  M                   1,500.00
+Total Price: 01,500.00

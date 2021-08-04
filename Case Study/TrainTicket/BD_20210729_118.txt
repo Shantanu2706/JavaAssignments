@@ -1,0 +1,12 @@
+PNR: BD_20210729_118
+Train No: 1001
+Train Name: Shatabdi Express
+From:Bangalore
+To: Delhi
+Travel Date: 29/7/2021
+
+Passengers
+Name	Age	Gender	Fare
+Manoj Tripathi	34	M	2500
+Shantanu Pimprikar	22	M	2500
+Total Price: 5000.0

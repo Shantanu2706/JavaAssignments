@@ -1,0 +1,11 @@
+PNR: DB_20230303_111
+Train No: 1002
+Train Name: Shatabdi Express
+From:Delhi
+To: Bangalore
+Travel Date: 3/3/2023
+
+Passengers
+Name	Age	Gender	Fare
+Rahul	33	M	2500
+Total Price: 2500.0
